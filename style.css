@@ -1,1 +1,55 @@
+.produit {
+    font-style: italic;
+    text-transform: uppercase;
+    color: coral;
+}
 
+.reference {
+    font-style: italic;
+    color: black;
+    background-color: darkgray;
+}
+
+.generale {
+    color: blue;
+    font-weight: bolder;
+    text-decoration-line: underline;
+}
+
+#pate3 {
+    color: blue;
+    font-size: small;
+    background-color: darkgray;
+}
+
+div.pate1 h3 {
+    color: red;
+    font-variant: small-caps;
+}
+
+.mag {
+    color: green;
+    font-weight: bolder;
+    font-family: fantasy;
+}
+
+* {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    text-decoration-line: underline;
+}
+
+blockquote p {
+    text-indent: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+ul {
+    list-style-type: circle;
+}
